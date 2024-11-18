@@ -10,11 +10,10 @@ We can give visibility frequencies in the jupyter file (PlayGround.iypnb) for ra
 
 Files to run
 
-1. Launch jupyter notebook by launching the command inside the docker
+1. Launch jupyter notebook by launching the command inside the docker: pip install -e ./notebooks/environments/Minigrid && jupyter lab --ip=0.0.0.0 --allow-root --notebook-dir=./notebooks --no-browser
 2. Keep utils.py, sbutils.py files
 3. Run "Playground.iypnb" jupyter notebook.
   
-
 How to run codes:
 
 1. Run the Experiments: Check with visibility frequency = 1 (safe RL as discussed in class);
