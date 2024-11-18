@@ -2,7 +2,8 @@
 
 Team Name
 
-Tipu Sultan (23V0010) 
+  Tipu Sultan (23V0010) 
+  Hasmita Kurre (23D0385)
 
 How to change inputs
 
@@ -13,3 +14,5 @@ Files to run
 How to run codes
 
 Result Interopretation
+
+Github URL - https://github.com/HasmitaKurre/CS781_Formal_Methods_ML_Project/
